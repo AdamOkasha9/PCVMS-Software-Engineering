@@ -1,6 +1,8 @@
 # PCVMS-Software-Engineering
 Zip file Content:
-1-Full technical report including 
+
+1-Full technical report. Inculdes : 
+
    1. System Vision Document
    2. Stakeholder Identification
    3. Functional Requirements
@@ -15,4 +17,5 @@ Zip file Content:
 
        
 2- Figure 1 Activity Diagram for vessel port call
+
 3- Figure 2 Activity Diagram for Fault handling and rescheduling
